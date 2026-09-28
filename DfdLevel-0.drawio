@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="YXRjuTKK7hKZJzEboqqh">
+    <mxGraphModel dx="1788" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="OwPQfwerBVHFara4Rv-U-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="660" y="420" as="sourcePoint" />
+            <mxPoint x="380" y="439.98615384615385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-9" connectable="0" parent="5aXHOjXIVgXJsT5NJmdJ-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="&lt;font&gt;User Credentials &amp;amp; Transaction Input&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1731" y="2" as="geometry">
+            <mxPoint x="-36" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-11" edge="1" parent="1" source="tZ_1XA7uo0gxaDi6rjLK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="OwPQfwerBVHFara4Rv-U-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="240" />
+              <mxPoint x="290" y="240" />
+            </Array>
+            <mxPoint x="255" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-14" connectable="0" parent="5aXHOjXIVgXJsT5NJmdJ-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="&lt;font&gt;Transaction and Security Request&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2902" y="-3" as="geometry">
+            <mxPoint x="49" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-2" edge="1" parent="1" source="tZ_1XA7uo0gxaDi6rjLK-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.998;entryY=0.119;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="OwPQfwerBVHFara4Rv-U-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="344.48" />
+            </Array>
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-3" connectable="0" parent="13yyAm3X3DYgUA2atPHa-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Gesture Input and Biometric Data&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0911" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZ_1XA7uo0gxaDi6rjLK-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=light-dark(#000000,#FFFFFF);strokeColor=#666666;labelBackgroundColor=none;" value="COSTUMER" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-3" edge="1" parent="1" source="OwPQfwerBVHFara4Rv-U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.57;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="tZ_1XA7uo0gxaDi6rjLK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="239.61" y="636" />
+              <mxPoint x="690" y="636" />
+            </Array>
+            <mxPoint x="239.61" y="610" as="sourcePoint" />
+            <mxPoint x="689.96" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-16" connectable="0" parent="5aXHOjXIVgXJsT5NJmdJ-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transaction&amp;nbsp; Status, Receipts &amp;amp; Dashboard Views&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1744" y="-1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZ_1XA7uo0gxaDi6rjLK-51" edge="1" parent="1" source="tZ_1XA7uo0gxaDi6rjLK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OwPQfwerBVHFara4Rv-U-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-275" y="240" />
+              <mxPoint x="220" y="240" />
+            </Array>
+            <mxPoint x="-280" y="240" as="sourcePoint" />
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-6" connectable="0" parent="tZ_1XA7uo0gxaDi6rjLK-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Account&amp;nbsp; Data Authorization&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3286" y="2" as="geometry">
+            <mxPoint x="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZ_1XA7uo0gxaDi6rjLK-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CORE BANKING SYSTEM" vertex="1">
+          <mxGeometry height="50" width="110" x="-330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5aXHOjXIVgXJsT5NJmdJ-17" edge="1" parent="1" source="tZ_1XA7uo0gxaDi6rjLK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.162;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="OwPQfwerBVHFara4Rv-U-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="560" />
+              <mxPoint x="-280" y="640.03" />
+              <mxPoint x="125.4" y="640.03" />
+            </Array>
+            <mxPoint x="-275" y="580" as="sourcePoint" />
+            <mxPoint x="125" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ndPfB_VWlvYPaPvPsFJC-1" connectable="0" parent="5aXHOjXIVgXJsT5NJmdJ-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Dispatch and Maintenance Status&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0133" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZ_1XA7uo0gxaDi6rjLK-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FLEET OPERATION CENTER" vertex="1">
+          <mxGeometry height="50" width="110" x="-330" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="tZ_1XA7uo0gxaDi6rjLK-59" edge="1" parent="1" source="OwPQfwerBVHFara4Rv-U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.001;exitY=0.294;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;exitPerimeter=0;" target="tZ_1XA7uo0gxaDi6rjLK-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-8" connectable="0" parent="tZ_1XA7uo0gxaDi6rjLK-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transaction Data and Account Update&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1435" y="-2" as="geometry">
+            <mxPoint x="13" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tZ_1XA7uo0gxaDi6rjLK-78" edge="1" parent="1" source="OwPQfwerBVHFara4Rv-U-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.002;exitY=0.423;exitDx=0;exitDy=0;exitPerimeter=0;" target="tZ_1XA7uo0gxaDi6rjLK-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80.6" y="460" />
+              <mxPoint x="-275" y="460" />
+            </Array>
+            <mxPoint x="60" y="460" as="sourcePoint" />
+            <mxPoint x="-221.19999999999993" y="536.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-10" connectable="0" parent="tZ_1XA7uo0gxaDi6rjLK-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Telemetry, Cash and Maintenance Status&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1455" y="-2" as="geometry">
+            <mxPoint x="4" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-4" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.167;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="tZ_1XA7uo0gxaDi6rjLK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650.04" y="560" />
+            </Array>
+            <mxPoint x="360" y="560" as="sourcePoint" />
+            <mxPoint x="650.03" y="460.03000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13yyAm3X3DYgUA2atPHa-5" connectable="0" parent="13yyAm3X3DYgUA2atPHa-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Authentication&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2167" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwPQfwerBVHFara4Rv-U-10" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="0.0" vertex="1">
+          <mxGeometry height="290" width="280" x="80" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="OwPQfwerBVHFara4Rv-U-11" parent="OwPQfwerBVHFara4Rv-U-10" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;Enterprise-Kiosk Vanguard&lt;/font&gt;" vertex="1">
+          <mxGeometry height="240" width="280" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
