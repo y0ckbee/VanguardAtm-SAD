@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-KVDc0qqsGkcFplsnaez">
-    <mxGraphModel dx="3669" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="4202" dy="2358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,9 +87,6 @@
             <mxPoint x="690" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TOETScqK3aKaDCrTWuTR-9" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;labelBackgroundColor=default;" value="&lt;div&gt;D1 CUSTOMER INFORMATION BIOMETRIC DATA&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="180" x="-290" y="520" as="geometry" />
-        </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-72" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="5ag37J46XCt89oNP0lcB-29">
           <mxGeometry relative="1" x="0.0184" as="geometry">
             <Array as="points">
@@ -127,7 +124,7 @@
           <mxGeometry height="30" width="210" x="-90" y="10" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-30" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;labelBackgroundColor=default;" value="&lt;div&gt;D3 ATM Terminal Data&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="180" x="-500" y="520" as="geometry" />
+          <mxGeometry height="50" width="180" x="-330" y="520" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-54" edge="1" parent="1" source="TOETScqK3aKaDCrTWuTR-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="TOETScqK3aKaDCrTWuTR-53">
           <mxGeometry relative="1" as="geometry">
@@ -154,19 +151,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="&lt;br&gt;&lt;div&gt;Terminal Data&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-350" y="580" as="geometry" />
+          <mxGeometry height="30" width="60" x="-180" y="580" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-44" edge="1" parent="1" source="TOETScqK3aKaDCrTWuTR-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;labelBackgroundColor=default;" target="TOETScqK3aKaDCrTWuTR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-41" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;labelBackgroundColor=default;" value="&lt;div&gt;D4 Cassette Inventory&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="180" x="-700" y="520" as="geometry" />
+          <mxGeometry height="50" width="180" x="-530" y="520" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="&lt;br&gt;&lt;div&gt;Cash Data&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="-540" y="600" as="geometry" />
+          <mxGeometry height="30" width="60" x="-370" y="600" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="Maintenance Data" vertex="1">
-          <mxGeometry height="30" width="160" x="-820" y="590" as="geometry" />
+          <mxGeometry height="30" width="160" x="-650" y="590" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-48" edge="1" parent="1" source="TOETScqK3aKaDCrTWuTR-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" target="TOETScqK3aKaDCrTWuTR-32">
           <mxGeometry relative="1" as="geometry">
@@ -174,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-47" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;labelBackgroundColor=default;" value="&lt;div&gt;D5 Maintenance Record&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="180" x="-910" y="520" as="geometry" />
+          <mxGeometry height="50" width="180" x="-740" y="520" as="geometry" />
         </mxCell>
         <mxCell id="TOETScqK3aKaDCrTWuTR-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="FLEET OPERATIONS CENTER&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-485" y="790" as="geometry" />
