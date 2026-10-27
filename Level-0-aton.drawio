@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="L0RZezofry8HAsZvxNmN">
+    <mxGraphModel dx="1201" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PUGvsUfPBfgo-htgRotG-9" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="" vertex="1">
+          <mxGeometry height="40" width="110" x="75" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Customer" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-10" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-12" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-20" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="0.0" vertex="1">
+          <mxGeometry height="110" width="140" x="320" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-6" parent="PUGvsUfPBfgo-htgRotG-5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Manage Vanguard ATM Services" vertex="1">
+          <mxGeometry height="40" width="100" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-13" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vanguard Operation System" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Card Data, PIN Input, Biometric Input, Microchip Identification&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="175" x="210" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Authentication Result, ATM Menu, Transaction Result, Cash Availability, Receipt, Security Status&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="200" x="140" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-19" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="Vanguard Core Banking System" vertex="1">
+          <mxGeometry height="40" width="110" x="605" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Account Information, Transaction Authorization, Account Verification Result&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="425" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Transaction Authorization Request, Transaction Details, Transaction Outcome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="500" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ATM Telemetry, Cash Status, Fault Alerts, Maintenance Alerts&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="670" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="PUGvsUfPBfgo-htgRotG-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Operational Instructions, Maintenance Actions, Cash Replenishment Updates&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="400" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
