@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="L0RZezofry8HAsZvxNmN">
-    <mxGraphModel dx="689" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="PUGvsUfPBfgo-htgRotG-13" edge="1" parent="1" source="PUGvsUfPBfgo-htgRotG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="PUGvsUfPBfgo-htgRotG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PUGvsUfPBfgo-htgRotG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fleet Operations Team" vertex="1">
+        <mxCell id="PUGvsUfPBfgo-htgRotG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Operations Team" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="500" as="geometry" />
         </mxCell>
         <mxCell id="PUGvsUfPBfgo-htgRotG-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Submit biometric data, gesture input, transaction requests, and security requests to the ATM system.&lt;/span&gt;" vertex="1">
